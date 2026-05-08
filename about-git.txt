@@ -2,4 +2,6 @@ Git is a distributed version control system that helps developers track changes 
 It allows multiple developers to work on the same project at the same time without overwriting each other’s work. 
 Git also makes it easy to save project history, restore previous versions, and collaborate using platforms like GitHub 
 and GitLab.
-It is widely used in sftware deveopment because it improves teamwork, organization, and code management.
+It is widely used in software development because it improves teamwork, organization, and code management.
+
+Today is the new day for everyone.... 
