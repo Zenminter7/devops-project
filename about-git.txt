@@ -4,4 +4,4 @@ Git also makes it easy to save project history, restore previous versions, and c
 and GitLab.
 It is widely used in software development because it improves teamwork, organization, and code management.
 
-Today is the new day for everyone.... 
+ 
